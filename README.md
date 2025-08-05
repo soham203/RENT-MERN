@@ -141,4 +141,4 @@ PORT=8001
 ---
 
 ## Screenshots
-_Add screenshots of the UI here (Home, Login, Register, Owner Dashboard, Admin Panel, etc.)_
+
