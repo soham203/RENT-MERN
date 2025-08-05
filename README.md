@@ -142,3 +142,7 @@ PORT=8001
 
 ## Screenshots
 
+<img width="1919" height="972" alt="Screenshot 2025-08-05 153243" src="https://github.com/user-attachments/assets/3202e503-1ec2-411d-aa6e-4c387cb440b4" />
+<img width="1919" height="964" alt="Screenshot 2025-08-05 153251" src="https://github.com/user-attachments/assets/3ab7d18f-5a44-4bd9-92d7-92fa9607f67c" />
+<img width="1919" height="971" alt="Screenshot 2025-08-05 153330" src="https://github.com/user-attachments/assets/91396bdc-3c49-4c1e-9dca-2977f8382222" />
+<img width="1919" height="969" alt="Screenshot 2025-08-05 153532" src="https://github.com/user-attachments/assets/01e7a1e8-fc3b-4bb8-8925-77c3858536a3" />
